@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Pagina 2"
 permalink: /Page2/
-
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Sansoeko/CodeSnippets/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
